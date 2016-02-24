@@ -1,6 +1,4 @@
----
-title: "CodeBook"
----
+#CodeBook
 
 ##Data
 
