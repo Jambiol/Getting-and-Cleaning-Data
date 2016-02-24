@@ -1,6 +1,4 @@
----
-title: "Getting and cleaning data project"
----
+#Getting and cleaning data project
 
 This is an R Markdown document with my scripts to solve the "Getting and cleaning data project" of Coursera course.
 
